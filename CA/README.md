@@ -1,3 +1,7 @@
+
+# Conditional Access as Code is not my project
+https://github.com/AlexFilipin/ConditionalAccess
+
 # Conditional Access as Code
 
 In an nutshell this repository does two things:
