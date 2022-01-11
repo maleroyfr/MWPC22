@@ -1,5 +1,5 @@
 
-# Conditional Access as Code is not my project
+# See original author
 https://github.com/AlexFilipin/ConditionalAccess
 
 # Conditional Access as Code
