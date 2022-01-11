@@ -1,0 +1,26 @@
+[
+  {
+    "toplevel_name": "Company Bookmarks"
+  }, 
+  {
+    "url": "www.roxys.dev", 
+    "name": "Company Home Page"
+  }, 
+  {
+    "url": "https://ui.boondmanager.com/login", 
+    "name": "HR - Boondmanager"
+  }, 
+  {
+    "name": "Office 365", 
+    "children": [
+      {
+        "url": "outlook.office365.com", 
+        "name": "Email"
+      }, 
+      {
+        "url": "portal.office.com", 
+        "name": "Portal"
+      }
+    ]
+  }
+]
