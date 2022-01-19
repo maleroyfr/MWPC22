@@ -1,0 +1,2 @@
+Suspend-BitLocker -MountPoint "C:" -RebootCount 0
+Resume-BitLocker -MountPoint "C:"
